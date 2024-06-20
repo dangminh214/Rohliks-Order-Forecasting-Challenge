@@ -1,5 +1,5 @@
 # Title: Rohliks Order Forecasting Challenge on Kaggle: 
-### Technical Stack: Jupiter Notebook, Random Forrest Regression 
+### Technical Stack: Jupiter Notebook, Random Forrest Regression, Pandas, Numpy 
 ### Train Data Overview 
 ![image](https://github.com/dangminh214/Rohliks-Order-Forecasting-Challenge/assets/51837721/b11b5b71-eaeb-4bec-a330-e94d8695b9d1)
 
